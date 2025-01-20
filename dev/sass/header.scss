@@ -1,39 +1,90 @@
 header {
 	background-color: #000;
   }
-  .navbar-brand {
+
+header .container {
+	width:1321px;
+	max-width:1440px;
+	margin-right: 70px;
+}
+
+.navbar-brand {
+	margin-left: -30px;
 	font-weight: bold;
 	color: rgb(248, 248, 248);
-  }
+	font-size: 29px;
+	font-weight: 800;
+	line-height: 44.51px;	
+}
 
 
-  .navbar-brand:hover{
+.navbar-brand:hover{
 	color: $special-orange;
-  }
-  .navbar-nav .nav-link {
+
+}
+
+.navbar-nav .nav-link {
 	color: white;
 	margin-right: 15px;
 	position: relative;
-	
-  }
-  .navbar-nav .nav-link:hover, 
-  .navbar-nav .active {
-	color: $special-orange;
-	position: relative;
-  }
-  .navbar-nav .active::after {
-	content: '';
-	position: absolute;
-	bottom: -5px;
-	left: 0;
-	width: 20px;
-	height: 2px;
-	background-color: $special-orange;
-  }
-  .btn-contact {
+}
+
+
+
+.btn-contact {
 	background-color:$special-orange;
 	color: white;
-  }
-  .btn-contact:hover {
+
+}
+
+.btn-contact:hover {
 	background-color: $special-orange;
+
+}
+
+.navbar-nav{
+	margin-top: 10px;
+}
+
+.nav-item {
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 24px;
+   text-align: left
+}
+
+.h-m-item {
+	margin-right: 64px;
+}
+
+.h-m-item-2 {
+	margin-right:20.59px;
+}
+
+header .btn {
+	width: 131.77px;
+	height: 41.34px;
+}
+
+.nav-link:hover {
+	position: relative; 
+	cursor: pointer;
+  }
+
+  .nav-link::after {
+	content: "";
+    position: absolute;
+    left: -5px;
+    bottom: -3px;
+    width: 0;
+    height: 4px;
+    background: linear-gradient(to right, $special-orange 0 83%, transparent 100%) no-repeat, radial-gradient(circle, $special-orange 50%, transparent 50%);
+    background-size: 31px 4px, 8px 4px;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+    overflow: hidden;
+  }
+
+  .nav-link:hover::after {
+	width: 40px;
   }
