@@ -1,0 +1,84 @@
+.trending-games-section {
+    background-color: #000; /* Фон секции */
+  }
+  
+  .game-card img {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .game-card img:hover {
+    transform: scale(1.05); /* Увеличение изображения при наведении */
+  }
+  
+  .icon {
+    width: 16px;
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+  
+  .btn-outline-light {
+    border: 1px solid #fff;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-outline-light:hover {
+    background-color: #fff;
+    color: #000;
+  }
+
+
+  .g-c-1{
+    position: relative;
+    left: 67px;
+  }
+
+
+  .g-c-2 {
+    position: relative;
+    left: 35px;
+  }
+
+
+  .g-c-3 {
+    position: relative;
+    left: 5px;
+  }
+
+  .g-c-4 {
+    position: relative;
+    right: 27px;
+  }
+
+
+
+  .tittle-1{
+   position: relative;
+   font-size: 31px;
+    top: -37px;
+    left: 94px;
+  }
+
+
+  .btn-p-r {
+    position: relative;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 37.5px;
+    bottom: 42px;
+    right: 55px;
+    padding: 4px 34px;
+  }
+
+
+  .i-followers {
+   font-size: 22px;
+   font-weight: 500;
+   line-height: 41.25px;
+   position: relative;
+    top: 12px;
+}
+  
+
+
+
