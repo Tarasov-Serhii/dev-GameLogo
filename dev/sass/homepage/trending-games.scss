@@ -1,13 +1,10 @@
-.trending-games-section {
-    background-color: #000; /* Фон секции */
-  }
-  
+
   .game-card img {
     transition: transform 0.3s ease-in-out;
   }
   
   .game-card img:hover {
-    transform: scale(1.05); /* Увеличение изображения при наведении */
+    transform: scale(1.05); 
   }
   
   .icon {

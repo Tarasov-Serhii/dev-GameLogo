@@ -15,11 +15,18 @@ Use it to make something cool, have fun, and share what you've learned with othe
 @import "sass/variables";
 @import "sass/fonts";
 @import "sass/header";
+
 @import "sass/homepage/first-part.scss";
 @import "sass/homepage/trending-games.scss";
 @import "sass/homepage/industry-part.scss";
 @import "sass/homepage/services-part.scss";
 @import "sass/homepage/project-part.scss";
+
+@import "sass/aboutpage/aboutus-first-part.scss";
+@import "sass/aboutpage/why-work.scss";
+@import "sass/aboutpage/info-section-aboutus.scss";
+
+@import "sass/subscribe-part.scss";
 @import "sass/footer";
 @import "sass/global";
 @import "sass/media/media";

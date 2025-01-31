@@ -1,0 +1,58 @@
+.info-section {
+    background-color: #1C140F;
+    color: white;
+    margin-top: 148px;
+    height: 603px;
+    position: relative;
+  }
+  
+  .content-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+  }
+  
+  .image-box img {
+    width: 100%;
+    max-width: 496px;
+    position: absolute;
+    top: 112px;
+    right: 855px;
+}
+  
+  
+  .text-box {
+    max-width: 500px;
+  }
+  
+  .text-box h2 {
+   font-size: 28px;
+   font-weight: 600;
+   line-height: 44.1px;
+   width:531px;
+   position: absolute;
+    top: 180px;
+    right: 229px;
+  }
+  
+  .text-box p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32.4px;
+    width:536px;
+    position: absolute;
+    top: 343px;
+    right: 224px;
+  }
+  
+  .info-section .badge {
+    display: inline-block;
+    margin-bottom: 10px;
+    position: absolute;
+    left: 736px;
+    top: 129px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32.4px;
+  }
