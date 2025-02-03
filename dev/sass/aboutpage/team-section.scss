@@ -1,0 +1,52 @@
+.team-section {
+ margin-top: 154px;
+ color: white;
+}
+
+.team-section .section-title {
+ font-size: 25px;
+ font-weight: 600;
+ line-height: 45.12px;
+ margin-bottom: 56px;
+ position: relative;
+ left: 57px;
+ bottom: 6px;
+}
+
+.team-card {
+ background: #1C140F;
+ padding: 20px;
+ border-radius: 15px;
+ text-align: left;
+ width:295px;
+ height: 253px;
+ position: relative;
+ left: 38px
+}
+
+
+.team-card h3 {
+ font-size: 19px;
+ font-weight: 600;
+ line-height: 38.48px;  
+ position: absolute;
+ top: 148px;
+left: 100px;
+}
+
+.team-card p {   
+ font-size: 16px;
+ font-weight: 300;
+ line-height: 32.4px; 
+ position: absolute;
+ top: 181px;
+ left: 133px;
+}
+
+
+.img-team {
+    position: relative;
+    left: 78px;
+    top: 15px;
+}
+
