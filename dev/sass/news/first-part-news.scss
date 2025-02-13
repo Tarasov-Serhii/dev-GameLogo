@@ -1,0 +1,195 @@
+.search-section {
+    margin-top: 52px;
+    position: relative;
+    left: 28px;
+}
+
+.search-section .breadcrumb {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 33.36px;
+    position: relative;
+    left: 569px;
+}
+
+
+
+.search-section h2 {
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 59.56px;
+    
+}
+.arro {
+    margin: 0 4px 0 10px;
+}
+
+
+.search-section p{
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 0%;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    background-color: #1e1816;
+    border-radius: 12px;
+    padding: 12px 20px;
+    width: 400px;
+    position: relative;
+    left: 438px;
+    top: 62px;
+}
+
+.search-box i {
+    color: white;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.search-box input {
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 100%;
+}
+
+.search-box input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30.32px;
+}
+
+
+
+.news-section {
+    margin-top: 115px;
+    position: relative;
+    left: 28px;
+}
+
+
+.news-section .card {
+    background-color: transparent;
+    position: relative;
+}
+
+.card-img-top {
+    width: 92%;
+    position: relative;
+    left: 28px;
+}
+
+.news-section .badge-1 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 9px 33px;
+    top: 316px;
+    left: 25px;
+}
+
+.card-2 {
+    margin-top: 168px;
+}
+
+.news-section .card-body {
+    margin-top: 26px;
+}
+
+
+.news-section .blog-text-2 {
+    margin-top: 27px;
+}
+
+.min-5 {
+position: relative;
+    left: 186px;
+    bottom: 7px;
+}
+
+
+
+
+.news-section .card h5{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    position: relative;
+    top: 10px;
+    left: 9px;
+}
+
+
+.news-section .card p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 35.33px;
+    width:529px;
+    position: relative;
+    top: 33px;
+    left: 9px;
+}
+
+.news-section .list-group {
+    gap: 43px;
+    --bs-list-group-border-color: transparent;
+}
+.list-group-item {
+    background: transparent;
+}
+
+
+.news-section .list-group-item {
+position: relative;
+}
+
+
+.news-section .list-group-item .badge-2{
+  position: absolute;
+  left: 251px;
+  top: 27px;
+  padding: 6px 26px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26.25px;
+}
+
+
+.news-section .list-group-item h6 {
+  position: absolute;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 34.5px;
+  top: 85px;
+  left: 251px;
+}
+
+.news-section .list-group-item .min-5-2{
+    position: absolute;
+    left: 391px;
+    top: 34px;
+}
+
+.news-section .list-group-item img{
+    position: relative;
+    left: 8px;
+    bottom: 8px;
+}
+
+
+
+
+
+
+
+
+

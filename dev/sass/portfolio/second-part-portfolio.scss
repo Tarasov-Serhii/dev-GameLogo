@@ -1,0 +1,163 @@
+.service-porfolio-section {
+  margin-top: 109px;
+  position: relative;
+  left: 153px;
+}
+
+
+.text-vd{
+    color:white;
+}
+
+
+
+
+.text-vd h2{
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 54.15px;
+  width:383px;
+}
+
+
+.text-vd h3{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26.25px;
+  width:427px;
+}
+
+
+.text.vd p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26.25px;
+}
+
+.list-porfolio {
+  position: relative;
+  position: relative;
+  left: 33px;
+  top: 7px;
+}
+
+
+.list-porfolio li {
+  margin-bottom: -18px;
+font-size: 14px;
+font-weight: 400;
+line-height: 26.25px;
+}
+
+.list-porfolio li::before{
+    content: "";
+    display: block;
+    width: 20px;  
+    height: 20px;
+    background-image: url('assets/img/green-check.png'); 
+    background-size: cover; 
+    background-position: center;
+    position: relative;
+    right: 30px;
+    top: 24px;
+}
+
+
+.vd-porfolio{
+position: relative;
+left: -100px;
+top: 8px;
+}
+
+
+
+
+.service-porfolio-section-2 {
+  margin-top: 180px;
+  margin-bottom: 180px;
+}
+
+
+.service-porfolio-section-2 .row{
+margin-bottom:185px;
+}
+
+
+.service-porfolio-section-2 h3 {
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+letter-spacing: 0%;
+width:472px;
+position: relative;
+left: 57px;
+top: 12px;
+}
+
+.service-porfolio-section-2 p {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25.5px;
+  letter-spacing: 0%;
+  width:536px;
+  position: relative;
+  left: 54px;
+  top: 48px;
+}
+
+
+.blog-text-2 {
+  margin-top:50px;
+}
+
+
+
+
+.blog-image {
+  border-radius: 12px;
+  width:496px;
+  height:489px;
+  object-fit: cover;
+
+}
+
+.blog-im{
+position: relative;
+left: 86px;
+}
+
+.btn-warning {
+  background-color: #ff9900;
+  border: none;
+  padding: 12px 43px;
+  color: #fff;
+  position: relative;
+  top: 85px;
+  left: 58px;
+}
+
+.btn-warning:hover {
+  background-color: #e68a00;
+}
+
+
+
+.blog-2 h3{
+  left: 182px;
+  top: 21px;
+}
+
+.blog-2 p{
+  left: 181px;
+  top: 58px;
+}
+
+
+.blog-2 .blog-im {
+  left: 78px;
+}
+
+.blog-2 .btn-warning {
+  top: 95px;
+  left: 183px;
+}
