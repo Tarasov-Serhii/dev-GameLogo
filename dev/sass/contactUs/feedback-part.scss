@@ -1,0 +1,135 @@
+.feedback-section {
+    margin-top: 147px;
+    margin-bottom: 95px;
+    background-color: #1C140F;
+    height: 858px;
+    position: relative;
+}
+
+
+.decor-line-1 {
+    position: absolute;
+    top: -6px;
+    left: 454px;
+}
+
+.decor-line-2 {
+    position: absolute;
+    bottom: 3px;
+    left: 61px;
+}
+
+.form-control {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #fff;
+}
+
+.form-control::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.form-control:focus {
+    background: rgba(255, 255, 255, 0.027);
+    color: white;
+    border-color: #ff8c00;
+    box-shadow: 0 0 10px rgba(255, 140, 0, 0.5);
+}
+
+.form-label {
+    color: #4F4F4F;
+}
+
+
+
+.name-control-1 {
+ position: relative;
+ left: 175px;
+ top: 48px;
+}
+
+
+.name-control-2 {
+ position: relative;
+ left: 23px;
+ top: 48px;
+}
+
+
+.email-control {
+    position: relative;
+    left: 172px;
+    top: 47px;
+}
+
+.message-control{
+    position: relative;
+    left: 172px;
+    top: 48px;
+}
+
+
+.name-input {
+ width: 322px;
+ padding: 16px 10px;
+}
+
+
+.email-input {
+ width:671px;
+ padding: 16px 10px;
+}
+
+
+.message-input {
+ width:671px;
+ height:232px;
+}
+
+.btn-custom {
+    background-color: #ff8c00;
+    color: #fff;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.3s ease;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #e67e00;
+    transform: scale(1.05);
+}
+
+
+
+.feedback-text h2{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 56.85px;
+    position: relative;
+    top: 19px;
+    left: 22px;
+    
+     
+}
+
+
+.feedback-text p{
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 24.63px;
+    text-align: center;
+    position: relative;
+    top: 9px;
+    left: 22px;
+}
+
+
+.feedback-section .contact-form .btn {
+    position: relative;
+    top: 87px;
+    left: 261px;
+    padding: 16px 47px;
+}
+
